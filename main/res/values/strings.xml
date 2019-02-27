@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BloodBank</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="blood">
+        <item>Blood Type?</item>
+        <item>AB +ve</item>
+        <item>AB -ve</item>
+        <item>A +ve</item>
+        <item>A -ve</item>
+        <item>B +ve</item>
+        <item>B -ve</item>
+        <item>O +ve</item>
+        <item>O -ve</item>
+
+
+
+
+
+    </string-array>
+</resources>
